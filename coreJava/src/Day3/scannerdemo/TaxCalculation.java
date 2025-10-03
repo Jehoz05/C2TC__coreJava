@@ -1,4 +1,4 @@
-//Program to demonstrate encapsulation
+
 package Day3.scannerdemo;
 
 public class TaxCalculation {
